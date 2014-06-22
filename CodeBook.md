@@ -29,8 +29,8 @@ The data set is based on the SAMSUNG dataset provided in the assignment instruct
 
 The set of variables that were estimated from these signals are: 
 
-mean(): Mean value
-std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 Features are normalized and bounded within [-1,1].
 
