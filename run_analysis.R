@@ -34,7 +34,7 @@ Step2 <- Xtt[ keep]
 
 
 
-#Finis the merge in only one unique dataframe
+#Finish the merge in only one unique dataframe
 Datatemp <- cbind(Stt,Ytt, Step2)
 
 #Cleaning column names
